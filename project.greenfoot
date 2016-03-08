@@ -1,0 +1,37 @@
+#Greenfoot properties
+#Mon Mar 07 17:46:28 EST 2016
+target1.editor.x=-8
+target1.type=ClassTarget
+project.charset=UTF-8
+mainWindow.height=581
+target2.type=ClassTarget
+version=2.5.0
+target2.editor.width=900
+class.PracticeWorld.superclass=greenfoot.World
+target2.editor.height=700
+target2.y=10
+target2.x=160
+class.Variables.image=tux.png
+target2.editor.y=20
+class.Variables.superclass=greenfoot.Actor
+target2.editor.x=40
+world.lastInstantiated=PracticeWorld
+target1.height=50
+target2.width=110
+mainWindow.y=40
+target1.width=80
+mainWindow.x=40
+target1.editor.height=744
+package.numDependencies=0
+target1.editor.width=1382
+target1.y=10
+target2.naviview.expanded=true
+target1.x=70
+mainWindow.width=860
+package.numTargets=2
+target1.name=Variables
+target1.showInterface=false
+target2.showInterface=false
+target2.name=PracticeWorld
+target1.editor.y=-8
+target2.height=50
